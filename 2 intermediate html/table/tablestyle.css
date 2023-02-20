@@ -1,0 +1,10 @@
+table,tr,th,td{
+    /* font-size: 15px; */
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    border-spacing: 5px;
+}
+td{
+    background-color: cornflowerblue;
+}

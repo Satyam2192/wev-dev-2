@@ -1,0 +1,31 @@
+/* li{
+    border: 2px solid rgb(64, 156, 248);
+}
+/* giving speacial feature ti specific li */
+/* #special{
+    background: rgb(117, 216, 36);
+}
+.completed{
+    text-decoration: line-through;
+} */
+
+/* ----------------------------------------------- */
+/* star selector */
+*{
+    border: 1px solid greenyellow;
+}
+
+/* decendent selector */
+li {
+    color: rgb(18, 55, 223);
+}
+
+/* adjacent selector */
+h4 + ul {
+    border: 3px solid red;
+}
+
+/* nth of type */
+ul :nth-of-type(1){
+    background: orange;
+}

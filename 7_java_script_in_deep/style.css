@@ -1,0 +1,23 @@
+h1{
+    background-color: yellowgreen;
+    
+}
+
+/* #box{
+    style="display: flex" 
+} */
+#red{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+#yellow{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+}
+#green{
+    height: 100px;
+    width: 100px;
+    background-color:green;
+}

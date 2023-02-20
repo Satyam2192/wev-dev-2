@@ -1,0 +1,14 @@
+.background{
+    background-color: black;
+}
+
+.btn{
+    padding: 15px;
+    background-color: antiquewhite;
+}
+
+.centre{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

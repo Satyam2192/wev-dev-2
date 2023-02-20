@@ -1,0 +1,19 @@
+h1{
+    color: rgb(3, 233, 156);
+    background: rgb(239, 240, 191);
+}
+li{
+    color: rgb(1, 123, 204);
+}
+h4{
+    color: rgb(74, 204, 13);
+    border: antiquewhite 3px solid ;
+}
+/* body{
+    background: rgb(250, 188, 201);
+} */
+body{
+    background: url(https://images.pexels.com/photos/172292/pexels-photo-172292.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

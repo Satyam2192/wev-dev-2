@@ -1,0 +1,21 @@
+
+.box{
+    background-color: aquamarine;
+    font-size: x-large;
+    padding: 10px;
+    border: 10px solid black;
+}
+
+.box1{
+    font-size: xx-large;
+    margin: 10px;
+    background-color: burlywood;
+}
+.box2{
+    font-size: xx-large;
+    padding: 10px;
+    background-color: aqua;
+}
+.wrapper{
+    background-color: blueviolet;
+}

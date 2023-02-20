@@ -1,0 +1,28 @@
+h1{
+    color: palevioletred;
+    /* width: 50%; */
+    /* padding: auto;
+    margin-left: 45%; */
+    text-align: center;
+}
+table{
+    /* width: 20%;
+    padding: 10px; */
+    margin: auto;
+   
+}
+th {
+    width: 100px;
+    height: 90px;
+    background: pink;
+    /* border: 2px solid black; */
+    
+}
+.mid_ver{
+    border-left: 1px black solid;
+    border-right: 1px black solid;
+}
+.mid_hor{
+    border-top: 1px black solid;
+    border-bottom: 1px black solid;
+}

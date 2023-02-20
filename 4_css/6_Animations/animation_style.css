@@ -1,0 +1,13 @@
+.gola{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    transition: width 800ms, height 800ms,border-radius 800ms ;
+}
+.gola:hover{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    background-color: green;
+
+}

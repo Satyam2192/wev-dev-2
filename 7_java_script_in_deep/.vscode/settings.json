@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "bitset": "cpp",
+        "random": "cpp",
+        "streambuf": "cpp",
+        "*.tcc": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp"
+    },
+    "liveServer.settings.port": 5501
+}
